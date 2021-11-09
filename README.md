@@ -12,6 +12,10 @@
 
 - 青岛 alipays://platformapi/startapp?appid=2021001136608745
 
+#### 通信行程卡
+
+- alipays://platformapi/startapp?appid=2021002170600786
+
 ### 2、网易云音乐
 
 #### 歌单
